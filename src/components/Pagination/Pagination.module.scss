@@ -1,0 +1,36 @@
+.pegination {
+    & * + *{
+        margin-left: 10px;
+    }
+  li {
+    display: inline-flex;
+
+    a {
+      text-align: center;
+      padding: 10px;
+      width: 40px;
+      height: 40px;
+      border: 1px solid #fe5f1e;
+      border-radius: 50%;
+      cursor: pointer;
+      color: #fe5f1e;
+      line-height: 1;
+      &:hover {
+        background-color: #fe5f1e;
+
+        color: #fff;
+      }
+    }
+  }
+  :global {
+
+    .selected {
+      a {
+        background-color: #fe5f1e;
+        border-radius: 50%;
+
+        color: #fff;
+      }
+    }
+  }
+}
