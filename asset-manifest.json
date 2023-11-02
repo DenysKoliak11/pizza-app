@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.02c2ea2e.css",
-    "main.js": "/static/js/main.8e40292b.js",
-    "static/media/empty-cart.png": "/static/media/empty-cart.db905d1f4b063162f25b.png",
-    "static/media/pizza-logo.svg": "/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
-    "index.html": "/index.html",
-    "main.02c2ea2e.css.map": "/static/css/main.02c2ea2e.css.map",
-    "main.8e40292b.js.map": "/static/js/main.8e40292b.js.map"
+    "main.css": "/https:/pizza-app/static/css/main.02c2ea2e.css",
+    "main.js": "/https:/pizza-app/static/js/main.b5941c8a.js",
+    "static/media/empty-cart.png": "/https:/pizza-app/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/pizza-logo.svg": "/https:/pizza-app/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/https:/pizza-app/index.html",
+    "main.02c2ea2e.css.map": "/https:/pizza-app/static/css/main.02c2ea2e.css.map",
+    "main.b5941c8a.js.map": "/https:/pizza-app/static/js/main.b5941c8a.js.map"
   },
   "entrypoints": [
     "static/css/main.02c2ea2e.css",
-    "static/js/main.8e40292b.js"
+    "static/js/main.b5941c8a.js"
   ]
 }
